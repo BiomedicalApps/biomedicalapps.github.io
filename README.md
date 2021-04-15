@@ -1,2 +1,2 @@
-# biomedical-apps.github.io
+# biomedicalapps.github.io
 Biomedical Apps first try
